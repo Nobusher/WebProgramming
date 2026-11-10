@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Client_part/Client_part.csproj" />
+  <Project Path="WebProgramming/WebProgramming.csproj" />
+</Solution>
